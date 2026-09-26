@@ -112,4 +112,3 @@ from the sidebar, or replace `data/bank_transactions.csv`. `transaction_timestam
 * `ModuleNotFoundError` → run the `pip install` line in section 2 (inside your virtual environment, if you use one).
 * "No transactions match the selected filters" → clear one or more sidebar filters.
 
-> Data is synthetic and for learning/demonstration only.
